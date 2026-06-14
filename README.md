@@ -48,6 +48,9 @@ cd movie-recommendation-system
 
 Install dependencies:
 
+## Download
+[Download Model from Hugging Face](https://huggingface.co/datasets/your-username/your-repo)
+
 pip install -r requirements.txt
 
 Run the application:
